@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               optimizer
-version:            0.06_04
+version:            0.06_05
 abstract:           Write your own Perl optimizer, in Perl
 author:
     - Simon Cozens, Arthur Bergman, Reini Urban
@@ -11,7 +11,7 @@ configure_requires:
 build_requires:
     ExtUtils::MakeMaker:  0
 requires:
-    B::Generate:  0
+    B::Generate:  1.26
     DynaLoader:   0
 resources:
     license:     http://dev.perl.org/licenses/
