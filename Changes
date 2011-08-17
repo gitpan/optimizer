@@ -1,5 +1,8 @@
 Revision history for Perl extension optimizer.
 
+0.06_06  2011-08-17 Reini Urban <rurban@cpan.org>
+        - t/04-use.t: 7-8 fail threaded at pad_alloc (TODO)
+
 0.06_05  2010-08-28 Reini Urban <rurban@cpan.org>
 	- explain CPAN test failures with B::Generate and PERL_DL_NONLAZY=1
 	  If you want it, use it without PERL_DL_NONLAZY being set.
