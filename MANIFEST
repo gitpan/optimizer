@@ -17,3 +17,4 @@ t/z_pod-coverage.t
 t/z_pod.t
 typemap
 META.yml                                 Module meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
