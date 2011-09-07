@@ -4,7 +4,7 @@
       "Simon Cozens, Artur Bergman, Reini Urban"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.58, CPAN::Meta::Converter version 2.110930001",
+   "generated_by" : "ExtUtils::MakeMaker version 6.59, CPAN::Meta::Converter version 2.112150",
    "license" : [
       "unknown"
    ],
@@ -37,7 +37,7 @@
          }
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "license" : [
          "http://dev.perl.org/licenses/"
@@ -46,5 +46,5 @@
          "url" : "http://github.com/rurban/optimizer"
       }
    },
-   "version" : "0.06_07"
+   "version" : "0.07"
 }
